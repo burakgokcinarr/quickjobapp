@@ -1,0 +1,7 @@
+{
+    "NSCameraUsageDescription": "Benötigen Sie Zugriff auf die Bibliothek, um Bilder hochzuladen",
+    "NSPhotoLibraryUsageDescription": "Diese App erfordert die Berechtigung, auf Ihre Fotobibliothek zuzugreifen.",
+    "NSLocationUsageDescription": "Diese App benötigt die Erlaubnis, Standortdaten zu verwenden.",
+    "NSLocationWhenInUseUsageDescription": "Ihre Standorterlaubnis ist erforderlich, damit wir Ihnen passendere Stellen anzeigen können.",
+    "NSMicrophoneUsageDescription": "Diese App benötigt eine Mikrofonberechtigung, um kurze Profilvideos zu erstellen"
+}

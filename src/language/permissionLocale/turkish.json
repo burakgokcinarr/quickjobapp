@@ -1,0 +1,7 @@
+{
+    "NSCameraUsageDescription": "Resim yüklemek için kitaplık erişimine ihtiyacınız var",
+    "NSPhotoLibraryUsageDescription": "Bu uygulama fotoğraf kitaplığınıza erişmek için izin gerektirir.",
+    "NSLocationUsageDescription": "Bu uygulama konum verilerini kulanma izni gerektirir.",
+    "NSLocationWhenInUseUsageDescription": "Size uygun işleri daha uygun gösterebilmemiz için konum izniniz gereklidir.",
+    "NSMicrophoneUsageDescription": "Bu uygulama kısa profil videoları oluşturmanız için mikrofon izni gerektirir."
+}

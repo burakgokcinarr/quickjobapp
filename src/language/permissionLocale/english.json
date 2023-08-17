@@ -1,0 +1,7 @@
+{
+    "NSCameraUsageDescription": "Need library access to upload images",
+    "NSPhotoLibraryUsageDescription": "This app requires permission to your photo library to add images to your feedbacks.",
+    "NSLocationUsageDescription": "This app requires permission to use location data.",
+    "NSLocationWhenInUseUsageDescription": "Your location permission is required so that we can show you more suitable jobs.",
+    "NSMicrophoneUsageDescription": "This app requires microphone permission to create short profile videos."
+}

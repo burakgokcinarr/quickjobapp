@@ -1,0 +1,39 @@
+{
+  "cli": {
+    "version": ">= 3.3.2"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "ios": {
+        "simulator": true
+      }
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "androidDebug": {
+      "distribution": "store",
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "androidRelease": {
+      "distribution": "store",
+      "android": {
+        "buildType": "app-bundle"
+      }
+    },
+    "iosDebug": {
+      "distribution": "store",
+      "ios": {
+        "simulator": true
+      }
+    },
+    "production": {}
+  },
+  "submit": {
+    "production": {}
+  }
+}
