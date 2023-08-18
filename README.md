@@ -1,4 +1,4 @@
-# Quic Job Application
+# Quick Job Application
 
 İş ilanları yayınla, kendini tanıt ve hemen iş bul :)
 
