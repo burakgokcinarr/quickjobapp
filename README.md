@@ -10,9 +10,9 @@
 ## Kullanılan Teknolojiler
 
 * Expo CLI with Expo Application Server
-* Firabase Auth
-* Firabase Realtime Database
-* Firabase FireStorage
+* Firebase Auth
+* Firebase Realtime Database
+* Firebase FireStorage
 * Expo EAS
 * React Native
 * React-Navigation v6
